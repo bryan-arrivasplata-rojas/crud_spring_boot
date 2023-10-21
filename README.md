@@ -2,7 +2,7 @@
 
 Crud con 2 tablas (client,role) las cuales se realizaran con sus respectivos test con junit,mockito, jacoco y pruebas de ello con SonarQube.
 
-# Análsis con SonarQube
+# Análisis con SonarQube
 
 ![crud_client_sonarqube](https://github.com/bryan-arrivasplata-rojas/crud_spring_boot/assets/97413969/4854e75d-417d-4732-b9fc-d08a5791d9c7)
 
